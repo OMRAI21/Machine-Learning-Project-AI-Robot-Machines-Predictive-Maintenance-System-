@@ -1,0 +1,13 @@
+{
+  "horizon_days": 14,
+  "rul_cap_days": 120,
+  "n_train_rows": 83219,
+  "n_test_rows": 29170,
+  "n_robots": 420,
+  "risk_auc": 0.9924,
+  "risk_recall": 0.7925,
+  "risk_precision": 0.7736,
+  "rul_mae_days_all": 7.25,
+  "rul_mae_days_last60": 9.13,
+  "mode_accuracy": 0.9977
+}
