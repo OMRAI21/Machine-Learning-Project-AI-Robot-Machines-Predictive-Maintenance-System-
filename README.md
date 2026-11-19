@@ -107,4 +107,4 @@ Python · NumPy · pandas · scikit-learn · SQLite · HTML/CSS/JavaScript
 
 ## Author
 
-Divyansh Rai · RA2411003030016 · B.Tech Computer Science Engineering
+Divyansh Rai · SRM IST Delhi-NCR Campus · B.Tech Computer Science Engineering
