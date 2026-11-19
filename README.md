@@ -1,7 +1,3 @@
-# Machine-Learning-Project-AI-Robot-Machines-Predictive-Maintenance-System-
-AI-based Robot Health Monitoring and Predictive Maintenance System
-
-
 # Robot Health Monitor: Predictive Maintenance for Industrial Robots
 
 A machine-learning project that predicts when industrial robots are likely to fail, estimates how many days of life remain, and identifies the most likely failure cause. Results are shown in an interactive web dashboard.
