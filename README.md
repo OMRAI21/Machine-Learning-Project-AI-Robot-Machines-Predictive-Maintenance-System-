@@ -86,7 +86,7 @@ Open `Robot_Health_Monitor.html` in a web browser. To try batch analysis, upload
 
 ## Tech Stack
 
-Python · NumPy · pandas · scikit-learn · SQLite · HTML/CSS/JavaScript
+Python · NumPy · pandas · scikit-learn · SQLite · HTML/CSS
 
 ## Limitations and Future Work
 
